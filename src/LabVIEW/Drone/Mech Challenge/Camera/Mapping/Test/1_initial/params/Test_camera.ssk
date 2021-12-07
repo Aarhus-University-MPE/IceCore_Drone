@@ -1,0 +1,21 @@
+begin camera_parameters _0.0_1920x1080 (RGB)(1)
+ focal_length:                      19.90118334632670737960
+ ppac:                              -0.60003030276938174037 0.24048325113279078735
+ ppbs:                               0 0
+ film_format:                       14.28749999999999964473 25.39999999999999857891
+ lens_distortion_flag:              off
+ io_required:                       yes
+ camera_type:                       frame
+ media_type:                        digital
+ pixel_size:                        13.22916666666666607455 13.22916666666666607455
+ image_size_in_pixels:              1080 1920
+ scanline_orientation:              4
+ photo_coord_sys_orientation:       1
+ photo_coord_sys_origin:            539.50000000000000000000 959.50000000000000000000
+ focal_length_calibration_flag:     off
+ calibrated_focal_length_stddev:    0.03
+ ppac_calibration_flag:             off
+ calibrated_ppac_stddevs:           0.003   0.003
+ self_calibration_enabled_params:   0
+ antenna_offsets:                   0   0   0
+end camera_parameters

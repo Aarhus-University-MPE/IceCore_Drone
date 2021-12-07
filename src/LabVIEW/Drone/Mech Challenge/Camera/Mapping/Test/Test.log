@@ -1,0 +1,1252 @@
+[2019.05.12 10:23:03][ 82%RAM][ 52%CPU][Info]: Information i0002: More than 80% of the image coordinates of camera model were the same and therefore the corresponding geotags have been discarded.
+[2019.05.12 10:23:09][ 82%RAM][ 40%CPU][Info]: Create new camera model _0.0_1920x1080 (RGB) from exif.
+[2019.05.12 10:23:17][ 82%RAM][ 37%CPU][Info]: Information i0002: More than 80% of the image coordinates of camera model _0.0_1920x1080 (RGB) were the same and therefore the corresponding geotags have been discarded.
+[2019.05.12 10:23:19][ 82%RAM][ 37%CPU][Info]: Geotagged images # = 0
+[2019.05.12 10:23:19][ 82%RAM][ 37%CPU][Info]: No geotagged GCPs !
+[2019.05.12 10:23:35][ 85%RAM][ 38%CPU][Info]: Applying template: 3D Models
+[2019.05.12 10:23:36][ 85%RAM][ 38%CPU][Processing]: ProjectLoading
+[2019.05.12 10:23:36][ 85%RAM][ 38%CPU][Warning]: Warning w0045: Less than 4GB of available RAM was detected. This might be insufficient for processing larger projects.
+[2019.05.12 10:23:40][ 89%RAM][ 54%CPU][Info]: Project results: loading ...
+[2019.05.12 10:23:40][ 89%RAM][ 54%CPU][Info]: Project: loading done.
+[2019.05.12 10:23:40][ 89%RAM][ 54%CPU][Processing]: ProjectLoaded
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Cameras with 1 different camera model(s)
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Cameras with 15 different images
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Cameras created: 1
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: 0 rigs:
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 0 <D:/logfile10.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 1 <D:/logfile11.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 2 <D:/logfile12.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 3 <D:/logfile13.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 4 <D:/logfile14.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 5 <D:/logfile15.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 6 <D:/logfile16.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 7 <D:/logfile17.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 8 <D:/logfile3.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 9 <D:/logfile4.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 10 <D:/logfile5.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 11 <D:/logfile6.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 12 <D:/logfile7.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 13 <D:/logfile8.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: Image 14 <D:/logfile9.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: nrImages with GEO 0
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Info]: nrTotal images 15
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][UI]: Processing Start clicked.
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: --------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Version                 = <4.3.33>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Name                    = <Test>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Workspace               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: WKT Output              = <LOCAL_CS["Arbitrary (m)",LOCAL_DATUM["Arbitrary datum"],UNIT["meter",1.0,AUTHORITY["EPSG","9001"]]]>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: WKT GCP                 = <LOCAL_CS["Arbitrary (m)",LOCAL_DATUM["Arbitrary datum"],UNIT["meter",1.0,AUTHORITY["EPSG","9001"]]]>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: WKT IMG                 = <GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Linear unit             = <m>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Vert.model Output       = <noConv 0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Vert.model GCP          = <noConv 0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Vert.model IMG          = <geoid 0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ResultDir               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ReportDir               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/report/>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Initial processing options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Processing
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Keypoint extraction
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Keypoint scale strategy    = <Full>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image keypoint scale       = <1>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Descriptor type            = <0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Matching
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Strategy                   = <AutoOblique>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Advanced                   = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Sequential                 = <4>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Triangle                   = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Distance                   = <0 absolute>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: MTP                        = <50>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Similarity                 = <6>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Calibration
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Targeted Number of Keypoints = <Automatic>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Calibration method         = <Standard>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Optimizer type             = <Ceres>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Optimize internals         = <All>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Optimize externals         = <All>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Optimize lever-arm         = <None>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Rematch strategy           = <Auto>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Rematch images             = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Do sky segmentation        = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Output
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save camera internals and external, AAT, BBA = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save undistorted images         = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Generate orthomosaic for report = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Create thumbnails               = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Point Cloud options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Point Cloud Densification
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image scale               = <1/2 (Half image size, Default)>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Multiscale                = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Point density             = <Optimal>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Minimum number of matches = <3>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Matching window size      = <9x9 pixels>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Point Cloud Filters
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use densification area    = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use annotations           = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Limit camera depth        = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Output
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save PLY                  = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save XYZ                  = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: XYZ delimiter             = <Space>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save LAS                  = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save LAZ                  = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Merge Tiles into One File = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Run classification        = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: 3D Textured Mesh options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Generate 3D textured mesh = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Resolution                = <Medium Resolution (default)>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Maximum Octree Depth      = <12>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Texture size              = <8192x8192>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Decimation Criteria       = <Quantitative>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Maximum number of triangles = <1000000>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Color Balancing           = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save PLY                  = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save OBJ                  = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: OBJ Tiled Texture         = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save FBX                  = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save DXF                  = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save PDF3D                = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: PDF3D Logo                = <>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: LOD Export 
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Export OSGB               = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Export SLPK               = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Level Count               = <4>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Texture Quality           = <0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: DSM and Orthomosaic options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Resolution [cm/pixel]    = <-1>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Filters
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use noise filtering      = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use surface smoothing    = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Surface smoothing type   = <Sharp>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Raster DSM
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save DSM TIFF            = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Method                   = <Inverse Distance Weighting>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: DSM TIFF merge tiles     = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: GridDSM
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save grid DSM XYZ        = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: XYZ delimiter            = <Space>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save grid DSM LAS        = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save grid DSM LAZ        = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Grid DSM spacing [cm]    = <100>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Orthomosaic
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save orthomosaic TIFF    = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use visibility           = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Use color balancing      = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save orthomosaic TIFF merge tiles = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save orthomosaic TIFF without transparency = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save KML                 = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Additional outputs options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: DTM
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save DTM TIFF            = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: DTM TIFF merge tiles     = <yes>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Resolution [cm/pixel]    = <-5>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Contour lines
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save contour SHP          = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save contour PDF          = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save contour DXF          = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Contour base (in LinearUnit) = <0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Elevation interval (in LinearUnit) = <10>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Resolution [cm]            = <100>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Minimum line size [points] = <20>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Index options
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Resolution [cm/pixel]       = <-1>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Downsampling strategy       = <Gauss>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save reflectance map TIFF   = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Merge Reflectance Tiles     = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save Index Grid             = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save Index grid resolution  = <200>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save Index Range            = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Save Index Range resolution = <400>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Indices to generate         = <[ ]>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Has Regions                 = <no>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Cuda capable devices      = <0>
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: --------------------------------------------
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: OS Power Save: Disable
+[2019.05.12 10:23:52][ 85%RAM][ 44%CPU][Processing]: Step1Running
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Warning]: Some geotags were invalid and therefore removed.
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Cameras with 1 different camera model(s)
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Cameras with 15 different images
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Cameras created: 1
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: 0 rigs:
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 0 <D:/logfile10.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 1 <D:/logfile11.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 2 <D:/logfile12.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 3 <D:/logfile13.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 4 <D:/logfile14.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 5 <D:/logfile15.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 6 <D:/logfile16.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 7 <D:/logfile17.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 8 <D:/logfile3.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 9 <D:/logfile4.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 10 <D:/logfile5.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 11 <D:/logfile6.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 12 <D:/logfile7.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 13 <D:/logfile8.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Image 14 <D:/logfile9.JPEG> camera model <_0.0_1920x1080 (RGB)(1)> group <group1> no GPS
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: nrImages with GEO 0
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: nrTotal images 15
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: *****************************************************
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: ************ Keypoints       ************************
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: *****************************************************
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Processing]: Substep Keypoint extraction started.
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Available RAM = 616MB
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Largest image size: 1920x1080 feature scale 1
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Processing]: Gather image information
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Camera '_0.0_1920x1080 (RGB)(1)' has 3 bands: RGB, weights: [ 0.2126 0.7152 0.0722 ]
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: >>>Gather image information<<< done in 501ms / 0.00835 min.
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Available RAM = 615MB
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Info]: Largest image size: 1920x1080 feature scale 1
+[2019.05.12 10:23:52][ 85%RAM][  0%CPU][Processing]: Generate normalized/thumbnail images
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: >>>Generate normalized/thumbnail images<<< done in 500ms / 0.00833333 min.
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: Available RAM = 617MB
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: Largest image size: 1920x1080 feature scale 1
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: Feature Processing: optimal number of workers = 1
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: Feature Processing: optimal number of threads = 18446744073709551615
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Info]: Feature Processing: optimal total number of threads = -1
+[2019.05.12 10:23:53][ 85%RAM][  0%CPU][Processing]: Computing keypoints
+[2019.05.12 10:23:56][ 85%RAM][  0%CPU][Info]: D:/logfile10.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 9512
+[2019.05.12 10:23:56][ 85%RAM][  0%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile10_512.jpg>.
+[2019.05.12 10:23:56][ 85%RAM][ 91%CPU][Info]: Computing keypoints [1/15] elapsed 03s:504ms ...
+[2019.05.12 10:23:59][ 85%RAM][ 95%CPU][Info]: D:/logfile11.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 10994
+[2019.05.12 10:23:59][ 85%RAM][ 95%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile11_512.jpg>.
+[2019.05.12 10:23:59][ 85%RAM][ 93%CPU][Info]: Computing keypoints [2/15] elapsed 06s:508ms ...
+[2019.05.12 10:24:01][ 85%RAM][ 88%CPU][Info]: D:/logfile12.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 10317
+[2019.05.12 10:24:01][ 85%RAM][ 88%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile12_512.jpg>.
+[2019.05.12 10:24:02][ 85%RAM][ 90%CPU][Info]: Computing keypoints [3/15] elapsed 09s:011ms ...
+[2019.05.12 10:24:04][ 85%RAM][ 89%CPU][Info]: D:/logfile13.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 9959
+[2019.05.12 10:24:04][ 85%RAM][ 89%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile13_512.jpg>.
+[2019.05.12 10:24:04][ 85%RAM][ 86%CPU][Info]: Computing keypoints [4/15] elapsed 11s:514ms ...
+[2019.05.12 10:24:06][ 85%RAM][ 87%CPU][Info]: D:/logfile14.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 7222
+[2019.05.12 10:24:06][ 85%RAM][ 87%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile14_512.jpg>.
+[2019.05.12 10:24:06][ 85%RAM][ 88%CPU][Info]: Computing keypoints [5/15] elapsed 13s:517ms ...
+[2019.05.12 10:24:09][ 84%RAM][ 87%CPU][Info]: D:/logfile15.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 9390
+[2019.05.12 10:24:09][ 84%RAM][ 87%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile15_512.jpg>.
+[2019.05.12 10:24:09][ 84%RAM][ 87%CPU][Info]: Computing keypoints [6/15] elapsed 16s:020ms ...
+[2019.05.12 10:24:11][ 84%RAM][ 84%CPU][Info]: D:/logfile16.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 8772
+[2019.05.12 10:24:11][ 84%RAM][ 84%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile16_512.jpg>.
+[2019.05.12 10:24:11][ 84%RAM][ 84%CPU][Info]: Computing keypoints [7/15] elapsed 18s:525ms ...
+[2019.05.12 10:24:14][ 84%RAM][ 90%CPU][Info]: D:/logfile17.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 8911
+[2019.05.12 10:24:14][ 84%RAM][ 90%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile17_512.jpg>.
+[2019.05.12 10:24:14][ 85%RAM][ 90%CPU][Info]: Computing keypoints [8/15] elapsed 21s:029ms ...
+[2019.05.12 10:24:16][ 84%RAM][ 86%CPU][Info]: D:/logfile3.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 7271
+[2019.05.12 10:24:16][ 84%RAM][ 86%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile3_512.jpg>.
+[2019.05.12 10:24:16][ 84%RAM][ 84%CPU][Info]: Computing keypoints [9/15] elapsed 23s:532ms ...
+[2019.05.12 10:24:19][ 84%RAM][ 86%CPU][Info]: D:/logfile4.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 10319
+[2019.05.12 10:24:19][ 84%RAM][ 86%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile4_512.jpg>.
+[2019.05.12 10:24:19][ 84%RAM][ 85%CPU][Info]: Computing keypoints [10/15] elapsed 26s:035ms ...
+[2019.05.12 10:24:21][ 85%RAM][ 86%CPU][Info]: D:/logfile5.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 8949
+[2019.05.12 10:24:21][ 85%RAM][ 86%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile5_512.jpg>.
+[2019.05.12 10:24:21][ 84%RAM][ 86%CPU][Info]: Computing keypoints [11/15] elapsed 28s:539ms ...
+[2019.05.12 10:24:23][ 83%RAM][ 79%CPU][Info]: D:/logfile6.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 9387
+[2019.05.12 10:24:23][ 83%RAM][ 79%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile6_512.jpg>.
+[2019.05.12 10:24:24][ 83%RAM][ 82%CPU][Info]: Computing keypoints [12/15] elapsed 31s:041ms ...
+[2019.05.12 10:24:26][ 84%RAM][ 97%CPU][Info]: D:/logfile7.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 8663
+[2019.05.12 10:24:26][ 84%RAM][ 97%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile7_512.jpg>.
+[2019.05.12 10:24:26][ 84%RAM][ 96%CPU][Info]: Computing keypoints [13/15] elapsed 33s:545ms ...
+[2019.05.12 10:24:29][ 84%RAM][ 90%CPU][Info]: D:/logfile8.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 10134
+[2019.05.12 10:24:29][ 84%RAM][ 90%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile8_512.jpg>.
+[2019.05.12 10:24:29][ 84%RAM][ 90%CPU][Info]: Computing keypoints [14/15] elapsed 36s:048ms ...
+[2019.05.12 10:24:31][ 84%RAM][ 86%CPU][Info]: D:/logfile9.JPEG 1920x1080x3 byte RGB fscale 1 no. keypoints 10273
+[2019.05.12 10:24:31][ 84%RAM][ 86%CPU][Info]: Saved thumbnail <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/thumbnails/ogfile9_512.jpg>.
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: >>>Computing keypoints<<< done in 38s:550ms / 0.6425 min.
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Writing keypoints to <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/feat_full_1.p4b> ...
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Processing]: Write Keypoints.
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Processing]: Substep Keypoint extraction finished.
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: *****************************************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: ************ Pairs           ************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: *****************************************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Processing]: Substep Keypoint matching started.
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Processing]: Generating pairs
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Match_sequential: 4 matching distance: 0 number of pairs to match MTP 50
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Add pairs sequential: 4 nr corr
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Add pairs sequential: 50 new pairs
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Add pairs from MTPs: 50 best correspondences 0 new pairs
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Remove pairs from orientation: 0 removed (angle threshold 1.5708)
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Add pairs based on image similarity nrCorr: 6 nr new pairs: 26
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: Pair generator nr total pairs: 76
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: *****************************************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: ************ matching        ************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Info]: *****************************************************
+[2019.05.12 10:24:31][ 84%RAM][ 85%CPU][Processing]: Computing matches
+[2019.05.12 10:24:31][ 84%RAM][  0%CPU][Info]: Matching: need to process 76 pairs
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 3: <logfile10.JPEG(0,9512),logfile14.JPEG(4,7222)>: nrMatches 194 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 1: <logfile10.JPEG(0,9512),logfile12.JPEG(2,10317)>: nrMatches 186 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 2: <logfile10.JPEG(0,9512),logfile13.JPEG(3,9959)>: nrMatches 164 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][ 85%CPU][Info]: Computing matches [3/76] elapsed 501ms ...
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 0: <logfile10.JPEG(0,9512),logfile11.JPEG(1,10994)>: nrMatches 357 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 4: <logfile10.JPEG(0,9512),logfile15.JPEG(5,9390)>: nrMatches 179 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 6: <logfile10.JPEG(0,9512),logfile5.JPEG(10,8949)>: nrMatches 347 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 5: <logfile10.JPEG(0,9512),logfile4.JPEG(9,10319)>: nrMatches 374 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][  0%CPU][Info]: Matched pair 7: <logfile10.JPEG(0,9512),logfile6.JPEG(11,9387)>: nrMatches 356 | CPU SSE
+[2019.05.12 10:24:32][ 84%RAM][ 85%CPU][Info]: Computing matches [8/76] elapsed 01s:002ms ...
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 8: <logfile10.JPEG(0,9512),logfile8.JPEG(13,10134)>: nrMatches 243 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 11: <logfile11.JPEG(1,10994),logfile14.JPEG(4,7222)>: nrMatches 218 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 10: <logfile11.JPEG(1,10994),logfile13.JPEG(3,9959)>: nrMatches 233 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 9: <logfile11.JPEG(1,10994),logfile12.JPEG(2,10317)>: nrMatches 281 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][ 99%CPU][Info]: Computing matches [12/76] elapsed 01s:503ms ...
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 12: <logfile11.JPEG(1,10994),logfile15.JPEG(5,9390)>: nrMatches 215 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 13: <logfile11.JPEG(1,10994),logfile4.JPEG(9,10319)>: nrMatches 433 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 14: <logfile11.JPEG(1,10994),logfile6.JPEG(11,9387)>: nrMatches 283 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][  0%CPU][Info]: Matched pair 15: <logfile11.JPEG(1,10994),logfile8.JPEG(13,10134)>: nrMatches 184 | CPU SSE
+[2019.05.12 10:24:33][ 84%RAM][ 99%CPU][Info]: Computing matches [16/76] elapsed 02s:004ms ...
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 17: <logfile12.JPEG(2,10317),logfile14.JPEG(4,7222)>: nrMatches 369 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 16: <logfile12.JPEG(2,10317),logfile13.JPEG(3,9959)>: nrMatches 565 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 18: <logfile12.JPEG(2,10317),logfile15.JPEG(5,9390)>: nrMatches 345 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][ 99%CPU][Info]: Computing matches [19/76] elapsed 02s:504ms ...
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 19: <logfile12.JPEG(2,10317),logfile16.JPEG(6,8772)>: nrMatches 330 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 21: <logfile12.JPEG(2,10317),logfile6.JPEG(11,9387)>: nrMatches 195 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 20: <logfile12.JPEG(2,10317),logfile4.JPEG(9,10319)>: nrMatches 291 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 23: <logfile13.JPEG(3,9959),logfile14.JPEG(4,7222)>: nrMatches 386 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][100%CPU][Info]: Matched pair 22: <logfile12.JPEG(2,10317),logfile9.JPEG(14,10273)>: nrMatches 205 | CPU SSE
+[2019.05.12 10:24:34][ 84%RAM][ 99%CPU][Info]: Computing matches [24/76] elapsed 03s:005ms ...
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 24: <logfile13.JPEG(3,9959),logfile15.JPEG(5,9390)>: nrMatches 411 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 26: <logfile13.JPEG(3,9959),logfile17.JPEG(7,8911)>: nrMatches 221 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 25: <logfile13.JPEG(3,9959),logfile16.JPEG(6,8772)>: nrMatches 288 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 27: <logfile13.JPEG(3,9959),logfile4.JPEG(9,10319)>: nrMatches 234 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Computing matches [28/76] elapsed 03s:505ms ...
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 28: <logfile13.JPEG(3,9959),logfile5.JPEG(10,8949)>: nrMatches 196 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 29: <logfile13.JPEG(3,9959),logfile6.JPEG(11,9387)>: nrMatches 194 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 31: <logfile14.JPEG(4,7222),logfile15.JPEG(5,9390)>: nrMatches 142 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 30: <logfile13.JPEG(3,9959),logfile9.JPEG(14,10273)>: nrMatches 208 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 32: <logfile14.JPEG(4,7222),logfile16.JPEG(6,8772)>: nrMatches 150 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 33: <logfile14.JPEG(4,7222),logfile17.JPEG(7,8911)>: nrMatches 165 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 34: <logfile14.JPEG(4,7222),logfile3.JPEG(8,7271)>: nrMatches 207 | CPU SSE
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Computing matches [35/76] elapsed 04s:006ms ...
+[2019.05.12 10:24:35][ 84%RAM][100%CPU][Info]: Matched pair 35: <logfile14.JPEG(4,7222),logfile5.JPEG(10,8949)>: nrMatches 138 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 36: <logfile14.JPEG(4,7222),logfile6.JPEG(11,9387)>: nrMatches 147 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 37: <logfile14.JPEG(4,7222),logfile7.JPEG(12,8663)>: nrMatches 136 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 38: <logfile15.JPEG(5,9390),logfile16.JPEG(6,8772)>: nrMatches 367 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 39: <logfile15.JPEG(5,9390),logfile17.JPEG(7,8911)>: nrMatches 231 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 40: <logfile15.JPEG(5,9390),logfile3.JPEG(8,7271)>: nrMatches 169 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Computing matches [41/76] elapsed 04s:507ms ...
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 41: <logfile15.JPEG(5,9390),logfile4.JPEG(9,10319)>: nrMatches 197 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 42: <logfile15.JPEG(5,9390),logfile5.JPEG(10,8949)>: nrMatches 207 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 44: <logfile15.JPEG(5,9390),logfile7.JPEG(12,8663)>: nrMatches 179 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Matched pair 43: <logfile15.JPEG(5,9390),logfile6.JPEG(11,9387)>: nrMatches 206 | CPU SSE
+[2019.05.12 10:24:36][ 84%RAM][100%CPU][Info]: Computing matches [45/76] elapsed 05s:008ms ...
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 48: <logfile16.JPEG(6,8772),logfile3.JPEG(8,7271)>: nrMatches 221 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 45: <logfile15.JPEG(5,9390),logfile8.JPEG(13,10134)>: nrMatches 172 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 46: <logfile15.JPEG(5,9390),logfile9.JPEG(14,10273)>: nrMatches 171 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 47: <logfile16.JPEG(6,8772),logfile17.JPEG(7,8911)>: nrMatches 394 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Computing matches [49/76] elapsed 05s:508ms ...
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 50: <logfile16.JPEG(6,8772),logfile5.JPEG(10,8949)>: nrMatches 297 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 52: <logfile16.JPEG(6,8772),logfile7.JPEG(12,8663)>: nrMatches 214 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 51: <logfile16.JPEG(6,8772),logfile6.JPEG(11,9387)>: nrMatches 253 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 49: <logfile16.JPEG(6,8772),logfile4.JPEG(9,10319)>: nrMatches 275 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 53: <logfile17.JPEG(7,8911),logfile3.JPEG(8,7271)>: nrMatches 236 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 55: <logfile17.JPEG(7,8911),logfile5.JPEG(10,8949)>: nrMatches 361 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 56: <logfile17.JPEG(7,8911),logfile6.JPEG(11,9387)>: nrMatches 296 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Matched pair 54: <logfile17.JPEG(7,8911),logfile4.JPEG(9,10319)>: nrMatches 344 | CPU SSE
+[2019.05.12 10:24:37][ 84%RAM][100%CPU][Info]: Computing matches [57/76] elapsed 06s:009ms ...
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 57: <logfile17.JPEG(7,8911),logfile7.JPEG(12,8663)>: nrMatches 344 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 59: <logfile3.JPEG(8,7271),logfile5.JPEG(10,8949)>: nrMatches 166 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 60: <logfile3.JPEG(8,7271),logfile6.JPEG(11,9387)>: nrMatches 138 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 58: <logfile3.JPEG(8,7271),logfile4.JPEG(9,10319)>: nrMatches 183 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 61: <logfile3.JPEG(8,7271),logfile7.JPEG(12,8663)>: nrMatches 118 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Computing matches [62/76] elapsed 06s:510ms ...
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 63: <logfile4.JPEG(9,10319),logfile6.JPEG(11,9387)>: nrMatches 323 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 64: <logfile4.JPEG(9,10319),logfile7.JPEG(12,8663)>: nrMatches 207 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 62: <logfile4.JPEG(9,10319),logfile5.JPEG(10,8949)>: nrMatches 658 | CPU SSE
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Computing matches [65/76] elapsed 07s:010ms ...
+[2019.05.12 10:24:38][ 84%RAM][100%CPU][Info]: Matched pair 65: <logfile4.JPEG(9,10319),logfile8.JPEG(13,10134)>: nrMatches 203 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 67: <logfile5.JPEG(10,8949),logfile7.JPEG(12,8663)>: nrMatches 243 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 66: <logfile5.JPEG(10,8949),logfile6.JPEG(11,9387)>: nrMatches 415 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 68: <logfile5.JPEG(10,8949),logfile8.JPEG(13,10134)>: nrMatches 242 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 69: <logfile5.JPEG(10,8949),logfile9.JPEG(14,10273)>: nrMatches 259 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Computing matches [70/76] elapsed 07s:511ms ...
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 70: <logfile6.JPEG(11,9387),logfile7.JPEG(12,8663)>: nrMatches 373 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 71: <logfile6.JPEG(11,9387),logfile8.JPEG(13,10134)>: nrMatches 382 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 72: <logfile6.JPEG(11,9387),logfile9.JPEG(14,10273)>: nrMatches 414 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 73: <logfile7.JPEG(12,8663),logfile8.JPEG(13,10134)>: nrMatches 768 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Matched pair 74: <logfile7.JPEG(12,8663),logfile9.JPEG(14,10273)>: nrMatches 765 | CPU SSE
+[2019.05.12 10:24:39][ 84%RAM][100%CPU][Info]: Computing matches [75/76] elapsed 08s:012ms ...
+[2019.05.12 10:24:40][ 84%RAM][ 99%CPU][Info]: Matched pair 75: <logfile8.JPEG(13,10134),logfile9.JPEG(14,10273)>: nrMatches 754 | CPU SSE
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: >>>Computing matches<<< done in 08s:512ms / 0.141867 min.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: MatchSet: saving to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_std_full_1.p4b...
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Write matches.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: MatchSet: saving to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_full_1.p4b...
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Write matches.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Substep Keypoint matching finished.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: ************ build tracks        ********************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Initialize automatic tie points.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: Build tracks maxTotMatches: 768
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Building automatic tie points.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: Build tracks size: 7518
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: ************ calibrate          *********************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Substep Camera calibration started.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: ********************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *******CalibrateProcessing******
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: ********************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Analyse automatic tie points.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: CalibrateProcessing Standard 1250
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: Filter tracks: gridding: 40 track size: 7518
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Analyse automatic tie points.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: Filter tracks size: 5955
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Compute number of matches.
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: PerspectiveCamera5 CAMERA nrCols*nrRows 1920*1080 sx*sy [mm]: 25.4*14.2875  iParams: 0 0 0 0 0 focal: 1511.81 cx/cy: 960 540 rd: 0 0 0 td: 0 0
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *********CalibrateSeq**********
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_000.p4drec updateInternals: yes internal opt: 2
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: FeatureScale: 3.9674 error: 0.356458 track size: 7518
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Processing]: Initialize calibration
+[2019.05.12 10:24:40][ 84%RAM][100%CPU][Info]: Init frame: 9 10 nrMatches: 1588 logfile4.JPEG logfile5.JPEG
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 0/5 E: 0.5519743139 dE: nan dX: 0.0041328342 d: 0.0312500000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 1/4 E: 0.4153701850 dE: -0.1310363779 dX: 0.0030064972 d: 0.0019531250
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 2/4 E: 0.4052044866 dE: -0.0012314631 dX: 0.0003281493 d: 0.0004882812
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 3/5 E: 0.4038732812 dE: -0.0011105063 dX: 0.0003249677 d: 0.0002441406
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Remove tracks baseline 385 -> 379
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Add points to tracks allSize: 7518 recSize: 379 the: 0.356458, 16
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: NrNew: 75 nrAdd: 0 from: 2 images
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 0/3 E: 0.3686233804 dE: -0.0012731630 dX: 0.0099391095 d: 0.1250000000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 1/2 E: 0.3684843888 dE: -0.0001364260 dX: 0.0004465709 d: 0.0312500000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 2/2 E: 0.3684572401 dE: -0.0000268979 dX: 0.0000403803 d: 0.0078125000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Init frame: 12 14 nrMatches: 1485 logfile7.JPEG logfile9.JPEG
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 0/39 E: 0.6648905910 dE: nan dX: 0.1729800220 d: 0.0312500000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 1/28 E: 0.5498195385 dE: -0.0678508788 dX: 0.4639952813 d: 0.0078125000
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 2/13 E: 0.5256147417 dE: -0.0029078044 dX: 0.2560660811 d: 0.0039062500
+[2019.05.12 10:24:41][ 84%RAM][ 86%CPU][Info]: Bund: 3/6 E: 0.5088071830 dE: -0.0034952916 dX: 0.3658907571 d: 0.0009765625
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 4/9 E: 0.4926293882 dE: 0.0161777948 dX: 0.9452418299 d: 0.0004882812
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 5/11 E: 0.4804126064 dE: 0.0122167818 dX: 0.1044727891 d: 0.0039062500
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 6/4 E: 0.4739299532 dE: -0.0041015946 dX: 0.2144506730 d: 0.0009765625
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 7/5 E: 0.4618360896 dE: -0.0017131931 dX: 5.2395594822 d: 0.0001220703
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 8/6 E: 0.4568698207 dE: -0.0029287751 dX: 1.3254587654 d: 0.0001220703
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 9/7 E: 0.4565769908 dE: 0.0002928300 dX: 3.0693865244 d: 0.0000610352
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Init frame: 13 14 nrMatches: 1407 logfile8.JPEG logfile9.JPEG
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 0/18 E: 0.4744288011 dE: nan dX: 0.2284292915 d: 0.0156250000
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 1/3 E: 0.3357926072 dE: -0.1674305828 dX: 0.0218741450 d: 0.0019531250
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 2/6 E: 0.3136293542 dE: 0.0009557130 dX: 0.0009049701 d: 0.0019531250
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 3/8 E: 0.3119081238 dE: 0.0017212305 dX: 0.0000056393 d: 0.0019531250
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Remove tracks baseline 395 -> 390
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Add points to tracks allSize: 7518 recSize: 390 the: 0.356458, 16
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: NrNew: 76 nrAdd: 0 from: 2 images
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 0/2 E: 0.2949276444 dE: -0.0008858528 dX: 0.0016787968 d: 0.2500000000
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 1/2 E: 0.2944455454 dE: -0.0004801625 dX: 0.0006486681 d: 0.0625000000
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Bund: 2/2 E: 0.2944276169 dE: -0.0000178332 dX: 0.0000309874 d: 0.0156250000
+[2019.05.12 10:24:42][ 84%RAM][ 86%CPU][Info]: Init frame: 12 13 nrMatches: 1381 logfile7.JPEG logfile8.JPEG
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame: 2 3 nrMatches: 1245 logfile12.JPEG logfile13.JPEG
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 0/28 E: 0.5190816347 dE: nan dX: 0.1781822493 d: 0.0625000000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 1/13 E: 0.4124676564 dE: 0.0015044947 dX: 0.0064016124 d: 0.0312500000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 2/11 E: 0.3614256902 dE: -0.0216750625 dX: 0.0176343816 d: 0.0156250000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 3/4 E: 0.3525422714 dE: -0.0072574382 dX: 0.0000553900 d: 0.0009765625
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Remove tracks baseline 313 -> 309
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Add points to tracks allSize: 7518 recSize: 309 the: 0.356458, 16
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: NrNew: 48 nrAdd: 0 from: 2 images
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 0/2 E: 0.3263494684 dE: -0.0001847869 dX: 0.0000710867 d: 0.2500000000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 1/1 E: 0.3263329456 dE: -0.0000165236 dX: 0.0000011519 d: 0.1250000000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Bund: 2/1 E: 0.3263329267 dE: -0.0000000188 dX: 0.0000013544 d: 0.0625000000
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame 1 9 -> 10: 3177 matches, median rel baseline 2.63825 (0.473961) cal tracks 454 (0.976344) score 0.462749
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame 2 12 -> 14: 2971 matches, median rel baseline 0 (0) cal tracks 0 (0) score 0
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame 3 13 -> 14: 2814 matches, median rel baseline 3.60049 (0.646827) cal tracks 465 (1) score 0.646827
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame 4 12 -> 13: 2762 matches, median rel baseline 0 (0) cal tracks 0 (0) score 0
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Init frame 5 2 -> 3: 2490 matches, median rel baseline 5.56638 (1) cal tracks 0 (0) score 0
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Processing]: Calibrate
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Select initial pair 13 logfile8.JPEG - 14 logfile9.JPEG
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Start calibrating error: 0.417054 nrProjections: 930 nrTracks: 465 trackSize: 465 s0(0) s1(0) s2(465) s3(0) s4(0) s5(0)
+[2019.05.12 10:24:43][ 84%RAM][ 87%CPU][Info]: Best image to add: logfile7.JPEG with 221 match candidates
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Add image: logfile7.JPEG with: 444 matches and error: 0.939901
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 0/43 E: 0.5865518927 dE: 0.0334325150 dX: 14.3217575523 d: 0.0007629395
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 1/7 E: 0.4780132066 dE: -0.1059656867 dX: 49.5163062952 d: 0.0000953674
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 2/10 E: 0.4602439487 dE: -0.0030665466 dX: 0.1381571398 d: 0.0015258789
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 3/6 E: 0.4490663801 dE: 0.0111775686 dX: 0.0686115587 d: 0.0015258789
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 4/6 E: 0.4390444740 dE: 0.0100219061 dX: 0.1349537553 d: 0.0015258789
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 5/8 E: 0.4367189708 dE: 0.0023255032 dX: 0.1050711874 d: 0.0015258789
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 6/13 E: 0.4333394171 dE: 0.0033795537 dX: 0.0289659431 d: 0.0030517578
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 7/7 E: 0.4312647089 dE: 0.0020747082 dX: 0.1177478852 d: 0.0015258789
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 8/9 E: 0.4284647093 dE: 0.0027999995 dX: 0.0322192800 d: 0.0030517578
+[2019.05.12 10:24:44][ 84%RAM][ 87%CPU][Info]: Bund: 9/7 E: 0.4257232868 dE: -0.0017883838 dX: 0.1322467791 d: 0.0015258789
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Add error: 0.610916 nrProjections: 1581 nrTracks: 721 trackSize: 721 s0(0) s1(0) s2(582) s3(139) s4(0) s5(0)
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Updated 3/13 (15)  trackSize: 721 nrAdd: 444
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: ***********************
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile6.JPEG with 133 match candidates
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Add image: logfile6.JPEG with: 164 matches and error: 0.927844
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 0/2 E: 0.6161277999 dE: -0.0457275315 dX: 0.0001131718 d: 25.0000000000
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 1/22 E: 0.4347207893 dE: -0.1021979193 dX: 25.0280442646 d: 0.0000953674
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 2/10 E: 0.4298717981 dE: 0.0030979371 dX: 26.7748651176 d: 0.0000953674
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 3/7 E: 0.4238365261 dE: -0.0033617531 dX: 38.7032491709 d: 0.0000476837
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 4/4 E: 0.4197740523 dE: -0.0014693182 dX: 394.9651560207 d: 0.0000029802
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 5/14 E: 0.4190131527 dE: 0.0007608996 dX: 76.7376193312 d: 0.0000029802
+[2019.05.12 10:24:45][ 84%RAM][ 92%CPU][Info]: Bund: 6/6 E: 0.4183631217 dE: 0.0006500309 dX: 59.1262922240 d: 0.0000029802
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Bund: 7/6 E: 0.4183376312 dE: 0.0000254905 dX: 48.4575697109 d: 0.0000029802
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Bund: 8/4 E: 0.4183216654 dE: 0.0000159659 dX: 43.4276595639 d: 0.0000029802
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Add error: 0.6073 nrProjections: 1778 nrTracks: 801 trackSize: 801 s0(0) s1(0) s2(645) s3(136) s4(20) s5(0)
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Updated 4/13 (15)  trackSize: 801 nrAdd: 164
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: ***********************
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile5.JPEG with 75 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile4.JPEG with 59 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Add points to tracks allSize: 7518 recSize: 801 the: 0.356458, 16
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: NrNew: 127 nrAdd: 17 from: 4 images
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Find more tracks error: 0.623206 nrProjections: 2067 nrTracks: 928 trackSize: 928 s0(0) s1(0) s2(747) s3(155) s4(22) s5(4)
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile5.JPEG with 80 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile4.JPEG with 63 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile15.JPEG with 42 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile16.JPEG with 40 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile10.JPEG with 40 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile17.JPEG with 36 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile11.JPEG with 36 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile12.JPEG with 24 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile3.JPEG with 23 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile13.JPEG with 22 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Best image to add: logfile14.JPEG with 15 match candidates
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: ***********************
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: ****Cluster done*******
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: ***********************
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Add points to tracks allSize: 7518 recSize: 928 the: 0.356458, 16
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: NrNew: 15 nrAdd: 1 from: 4 images
+[2019.05.12 10:24:46][ 84%RAM][ 92%CPU][Info]: Find more tracks error: 4.80056 nrProjections: 2101 nrTracks: 943 trackSize: 943 s0(0) s1(0) s2(760) s3(155) s4(24) s5(4)
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 0/47 E: 0.4454872174 dE: 0.0037579168 dX: 1124.0143364868 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 1/1 E: 0.4396322449 dE: -0.0059340080 dX: 2654.6747890063 d: 0.0000003725
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 2/7 E: 0.4383079235 dE: -0.0012596679 dX: 4107.8501640982 d: 0.0000000466
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 3/14 E: 0.4312223822 dE: -0.0014071836 dX: 1421.9247588183 d: 0.0000000466
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 4/7 E: 0.4269187630 dE: -0.0023318027 dX: 5082.0732300520 d: 0.0000000233
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Remove tracks baseline 928 -> 259
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 0/34 E: 0.2251583736 dE: 0.0064397585 dX: 0.0141328572 d: 0.0000238419
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 1/4 E: 0.2149874119 dE: -0.0065729217 dX: 0.0077238402 d: 0.0000014901
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 2/1 E: 0.2136025441 dE: -0.0013939052 dX: 0.0008968395 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 3/2 E: 0.2132643113 dE: 0.0003382329 dX: 2.2962892994 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 4/2 E: 0.2100212654 dE: 0.0032430458 dX: 0.0781628059 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 5/2 E: 0.2076484641 dE: 0.0023728013 dX: 9.0976601139 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 6/2 E: 0.2064762745 dE: 0.0011721896 dX: 0.1610597041 d: 0.0000007451
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 7/9 E: 0.2063370192 dE: 0.0001392554 dX: 0.0078904718 d: 0.0000059605
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 8/9 E: 0.2026457888 dE: 0.0036912303 dX: 0.0015922888 d: 0.0000029802
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Bund: 9/7 E: 0.2004751304 dE: 0.0021706585 dX: 0.0088771171 d: 0.0000059605
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Remove tracks variance 1 removed from 256
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: final error: 0.281025 nrProjections: 566 nrTracks: 255 trackSize: 255 s0(0) s1(0) s2(206) s3(42) s4(7) s5(0)
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Filter camera tracks min visible: 20 nrCameras: 15
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Filter camera tracks remaining cameras: 4
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Filter camera tracks: 0 cameras removed
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: final filtered error: 0.281025 nrProjections: 566 nrTracks: 255 trackSize: 255 s0(0) s1(0) s2(206) s3(42) s4(7) s5(0)
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: ***********************
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Write camera tracks C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_000.p4drec
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Write camera tracks 4 cams (0 w/ geo), 0 MTPs, 0 3D GCPs, 255 tracks
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: ***********************
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: 4/15 images in this cluster
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: *******************************
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: *********CalibrateSeq**********
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: *******************************
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_001.p4drec updateInternals: yes internal opt: 2
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: FeatureScale: 3.9674 error: 0.356458 track size: 4645
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Processing]: Initialize calibration
+[2019.05.12 10:24:47][ 84%RAM][ 95%CPU][Info]: Init frame: 9 10 nrMatches: 1588 logfile4.JPEG logfile5.JPEG
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 0/5 E: 0.5519743139 dE: nan dX: 0.0041328342 d: 0.0312500000
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 1/4 E: 0.4153701850 dE: -0.1310363779 dX: 0.0030064971 d: 0.0019531250
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 2/3 E: 0.4052044863 dE: -0.0012314628 dX: 0.0008194217 d: 0.0002441406
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 3/3 E: 0.4038729922 dE: -0.0011107458 dX: 0.0000800726 d: 0.0000305176
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Remove tracks baseline 385 -> 379
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Add points to tracks allSize: 4645 recSize: 379 the: 0.356458, 16
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: NrNew: 75 nrAdd: 0 from: 2 images
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 0/3 E: 0.3686233302 dE: -0.0012744348 dX: 0.0097830718 d: 0.1250000000
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 1/2 E: 0.3684843303 dE: -0.0001364338 dX: 0.0004324218 d: 0.0312500000
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Bund: 2/2 E: 0.3684572272 dE: -0.0000268526 dX: 0.0000399783 d: 0.0078125000
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Init frame: 6 7 nrMatches: 1036 logfile16.JPEG logfile17.JPEG
+[2019.05.12 10:24:48][ 84%RAM][ 95%CPU][Info]: Init frame: 5 6 nrMatches: 1023 logfile15.JPEG logfile16.JPEG
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 0/50 E: 0.4662814605 dE: nan dX: 1.8316350580 d: 0.0039062500
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 1/35 E: 0.3128442282 dE: -0.0197602189 dX: 0.0213280681 d: 0.0019531250
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 2/4 E: 0.3083101249 dE: -0.0041208480 dX: 0.0017220638 d: 0.0001220703
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Remove tracks baseline 142 -> 142
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Add points to tracks allSize: 4645 recSize: 142 the: 0.356458, 16
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: NrNew: 34 nrAdd: 0 from: 2 images
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 0/9 E: 0.2909470524 dE: -0.0000146387 dX: 0.0112573273 d: 0.0019531250
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 1/2 E: 0.2901566061 dE: -0.0007747476 dX: 0.0727476438 d: 0.0004882812
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 2/3 E: 0.2899881721 dE: -0.0001651196 dX: 0.0005136068 d: 0.0000610352
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Init frame: 1 9 nrMatches: 980 logfile11.JPEG logfile4.JPEG
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 0/4 E: 0.7684840611 dE: nan dX: 0.0027830170 d: 0.0625000000
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 1/4 E: 0.5806874226 dE: -0.1892564828 dX: 0.0033154333 d: 0.0039062500
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 2/5 E: 0.5591290339 dE: 0.0020725257 dX: 0.0000495319 d: 0.0004882812
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 3/7 E: 0.5373515467 dE: -0.0097137031 dX: 0.0001702828 d: 0.0002441406
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 4/7 E: 0.5235259852 dE: -0.0095487181 dX: 0.0006354354 d: 0.0001220703
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 5/7 E: 0.5102327479 dE: -0.0083129677 dX: 0.0001024818 d: 0.0000610352
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 6/9 E: 0.5023895628 dE: -0.0031819637 dX: 0.0036812715 d: 0.0001220703
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 7/10 E: 0.4959544506 dE: 0.0064351123 dX: 0.0001496339 d: 0.0004882812
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 8/5 E: 0.4935741763 dE: -0.0018346868 dX: 0.0003658310 d: 0.0002441406
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Bund: 9/4 E: 0.4900302044 dE: -0.0020665166 dX: 0.0005348632 d: 0.0000610352
+[2019.05.12 10:24:49][ 84%RAM][ 91%CPU][Info]: Init frame: 6 10 nrMatches: 963 logfile16.JPEG logfile5.JPEG
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Bund: 0/3 E: 1.3122788926 dE: nan dX: 0.0000437273 d: 0.1250000000
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Bund: 1/2 E: 1.3114800981 dE: -0.0007937599 dX: 0.0000304790 d: 0.0312500000
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Bund: 2/2 E: 1.3114393861 dE: -0.0000404713 dX: 0.0000048126 d: 0.0078125000
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Init frame 1 9 -> 10: 3177 matches, median rel baseline 2.63821 (0.0258858) cal tracks 454 (1) score 0.0258858
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Init frame 2 6 -> 7: 2072 matches, median rel baseline 0 (0) cal tracks 0 (0) score 0
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Init frame 3 5 -> 6: 2046 matches, median rel baseline 101.917 (1) cal tracks 175 (0.385463) score 0.385463
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Init frame 4 1 -> 9: 1961 matches, median rel baseline 0 (0) cal tracks 0 (0) score 0
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Init frame 5 6 -> 10: 1926 matches, median rel baseline 0 (0) cal tracks 0 (0) score 0
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Processing]: Calibrate
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Select initial pair 5 logfile15.JPEG - 6 logfile16.JPEG
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Start calibrating error: 0.412409 nrProjections: 350 nrTracks: 175 trackSize: 175 s0(0) s1(0) s2(175) s3(0) s4(0) s5(0)
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Best image to add: logfile13.JPEG with 83 match candidates
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Add image: logfile13.JPEG with: 216 matches and error: 0.97875
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Bund: 0/50 E: 0.4377343216 dE: 0.0783694344 dX: 0.1284020467 d: 0.0976562500
+[2019.05.12 10:24:51][ 84%RAM][ 73%CPU][Info]: Bund: 1/1 E: 0.2807310685 dE: nan dX: 0.3012102409 d: 0.0488281250
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 2/5 E: 0.2432995362 dE: -0.0334268400 dX: 0.0026368489 d: 0.0015258789
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 3/9 E: 0.2331186503 dE: -0.0020684599 dX: 0.0006963487 d: 0.0030517578
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Add error: 0.336607 nrProjections: 688 nrTracks: 314 trackSize: 314 s0(0) s1(0) s2(254) s3(60) s4(0) s5(0)
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Updated 3/9 (15)  trackSize: 314 nrAdd: 216
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: ***********************
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Best image to add: logfile12.JPEG with 135 match candidates
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Add image: logfile12.JPEG with: 343 matches and error: 0.870236
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 0/37 E: 0.4542175353 dE: 0.1171186480 dX: 0.7502379236 d: 0.0000476837
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 1/11 E: 0.3152481527 dE: -0.2280690570 dX: 1.9312191024 d: 0.0000238419
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 2/7 E: 0.2974548115 dE: 0.0003739371 dX: 1.3606631006 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 3/8 E: 0.2864261216 dE: 0.0110286898 dX: 0.0613325216 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 4/6 E: 0.2842439605 dE: 0.0021821611 dX: 0.0978777744 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 5/6 E: 0.2834326077 dE: 0.0008113528 dX: 0.0476355751 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 6/8 E: 0.2831269408 dE: 0.0003056669 dX: 0.0071465633 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 7/8 E: 0.2823393994 dE: 0.0007875414 dX: 0.0123082273 d: 0.0000119209
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 8/9 E: 0.2806044147 dE: 0.0017349848 dX: 0.0173227276 d: 0.0000238419
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Bund: 9/8 E: 0.2795488283 dE: -0.0007055921 dX: 0.0082214798 d: 0.0000238419
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Add error: 0.406827 nrProjections: 1221 nrTracks: 538 trackSize: 538 s0(0) s1(0) s2(429) s3(73) s4(36) s5(0)
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Updated 4/9 (15)  trackSize: 538 nrAdd: 343
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: ***********************
+[2019.05.12 10:24:52][ 84%RAM][ 73%CPU][Info]: Best image to add: logfile14.JPEG with 99 match candidates
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Add image: logfile14.JPEG with: 93 matches and error: 0.508549
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 0/12 E: 0.3281126631 dE: -0.0002954611 dX: 6.2465735554 d: 0.0002441406
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.2958530025 dE: -0.0259778617 dX: 0.2286812516 d: 0.0000152588
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 2/7 E: 0.2925505746 dE: -0.0015345522 dX: 0.2343241488 d: 0.0000305176
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 3/8 E: 0.2896479882 dE: 0.0029025864 dX: 0.0033794126 d: 0.0000305176
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 4/7 E: 0.2853580886 dE: -0.0011716953 dX: 0.0279757860 d: 0.0000152588
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Add error: 0.405466 nrProjections: 1352 nrTracks: 584 trackSize: 584 s0(0) s1(0) s2(463) s3(79) s4(21) s5(21)
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Updated 5/9 (15)  trackSize: 584 nrAdd: 93
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Best image to add: logfile4.JPEG with 93 match candidates
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Add image: logfile4.JPEG with: 66 matches and error: 0.65944
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 0/11 E: 0.3757672714 dE: -0.0338054563 dX: 3.4128174465 d: 0.0004882812
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.2948323558 dE: -0.0698632938 dX: 0.1272027885 d: 0.0000305176
+[2019.05.12 10:24:53][ 84%RAM][100%CPU][Info]: Bund: 2/3 E: 0.2943968653 dE: 0.0002510933 dX: 0.1610127430 d: 0.0000038147
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Add error: 0.420805 nrProjections: 1433 nrTracks: 611 trackSize: 611 s0(0) s1(0) s2(478) s3(86) s4(19) s5(28)
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Updated 6/9 (15)  trackSize: 611 nrAdd: 66
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Best image to add: logfile11.JPEG with 102 match candidates
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Add image: logfile11.JPEG with: 199 matches and error: 1.38407
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 0/10 E: 0.7303521987 dE: -0.1054834551 dX: 0.1711369331 d: 0.0009765625
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.4973781257 dE: -0.2461611165 dX: 0.0615650446 d: 0.0000610352
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 2/4 E: 0.4417533913 dE: -0.0272852846 dX: 0.0395573578 d: 0.0000038147
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 3/2 E: 0.4173135436 dE: -0.0055840658 dX: 1.2533783684 d: 0.0000009537
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 4/1 E: 0.4072040073 dE: -0.0103669961 dX: 0.0826875058 d: 0.0000004768
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 5/3 E: 0.4046933068 dE: -0.0025216701 dX: 0.0053896496 d: 0.0000000596
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 6/9 E: 0.4020024829 dE: -0.0017934586 dX: 0.0082477346 d: 0.0000000298
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 7/8 E: 0.3992504426 dE: 0.0027520403 dX: 0.0153138149 d: 0.0000000298
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 8/10 E: 0.3984729191 dE: 0.0007775235 dX: 0.0716827272 d: 0.0000000298
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 9/8 E: 0.3966699681 dE: 0.0018029510 dX: 0.0307667970 d: 0.0000000298
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Add error: 0.477347 nrProjections: 1746 nrTracks: 747 trackSize: 747 s0(0) s1(0) s2(602) s3(87) s4(25) s5(33)
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Updated 7/9 (15)  trackSize: 747 nrAdd: 199
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Best image to add: logfile5.JPEG with 129 match candidates
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Add image: logfile5.JPEG with: 208 matches and error: 1.2609
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 0/12 E: 0.5381678592 dE: -0.2675870578 dX: 3.5664298469 d: 0.0002441406
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.4460666268 dE: -0.0899589584 dX: 0.9394304692 d: 0.0000152588
+[2019.05.12 10:24:54][ 84%RAM][100%CPU][Info]: Bund: 2/4 E: 0.4398030846 dE: 0.0017750355 dX: 0.1992246919 d: 0.0000009537
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 3/5 E: 0.4349938134 dE: -0.0025885433 dX: 0.0502751180 d: 0.0000000298
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Add error: 0.507701 nrProjections: 2099 nrTracks: 901 trackSize: 901 s0(0) s1(0) s2(737) s3(98) s4(27) s5(39)
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Updated 8/9 (15)  trackSize: 901 nrAdd: 208
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Best image to add: logfile10.JPEG with 112 match candidates
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Add image: logfile10.JPEG with: 270 matches and error: 0.902582
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 0/10 E: 0.4906421299 dE: -0.0027281345 dX: 2.0210536463 d: 0.0009765625
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.4151634487 dE: -0.0418571095 dX: 0.5166890281 d: 0.0000610352
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 2/3 E: 0.4060190742 dE: -0.0045716192 dX: 0.1121765132 d: 0.0000076294
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 3/3 E: 0.3940306561 dE: -0.0052500990 dX: 0.1824913719 d: 0.0000009537
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 4/1 E: 0.3881370864 dE: -0.0059844497 dX: 0.0171289108 d: 0.0000004768
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 5/3 E: 0.3865053668 dE: -0.0016377372 dX: 0.0022793221 d: 0.0000000596
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 6/7 E: 0.3816041240 dE: -0.0031818082 dX: 0.0312647926 d: 0.0000000298
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 7/14 E: 0.3746062580 dE: -0.0033385551 dX: 0.0075785960 d: 0.0000000298
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 8/9 E: 0.3670036309 dE: 0.0076026271 dX: 0.0212574597 d: 0.0000000149
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 9/11 E: 0.3634898030 dE: 0.0035138279 dX: 0.0132742852 d: 0.0000000298
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Add error: 0.473726 nrProjections: 2537 nrTracks: 1096 trackSize: 1096 s0(0) s1(0) s2(898) s3(128) s4(29) s5(41)
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Updated 9/9 (15)  trackSize: 1096 nrAdd: 270
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Best image to add: logfile17.JPEG with 105 match candidates
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Add image: logfile17.JPEG with: 76 matches and error: 0.883566
+[2019.05.12 10:24:55][ 84%RAM][100%CPU][Info]: Bund: 0/14 E: 0.5516078515 dE: 0.0120792930 dX: 12.8666769468 d: 0.0000610352
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 1/5 E: 0.3755187198 dE: -0.2612418461 dX: 2.7226105027 d: 0.0000019073
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 2/1 E: 0.3735192761 dE: -0.0020102045 dX: 0.5711661728 d: 0.0000009537
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 3/3 E: 0.3664286189 dE: -0.0072284743 dX: 0.1631111194 d: 0.0000001192
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Add error: 0.484522 nrProjections: 2639 nrTracks: 1137 trackSize: 1137 s0(0) s1(0) s2(927) s3(135) s4(31) s5(44)
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Add points to tracks allSize: 4645 recSize: 1137 the: 0.0356458, 16
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: NrNew: 141 nrAdd: 87 from: 10 images
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Find more tracks error: 0.550314 nrProjections: 3010 nrTracks: 1278 trackSize: 1278 s0(0) s1(0) s2(1010) s3(174) s4(45) s5(49)
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 0/24 E: 0.3882299102 dE: 0.0097517292 dX: 0.0726449586 d: 0.0000953674
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 1/4 E: 0.3578978231 dE: -0.0177243018 dX: 0.0066732068 d: 0.0000059605
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 2/3 E: 0.3444191141 dE: -0.0058115715 dX: 0.1126035082 d: 0.0000007451
+[2019.05.12 10:24:56][ 84%RAM][100%CPU][Info]: Bund: 3/1 E: 0.3372284818 dE: -0.0073473340 dX: 0.0112009286 d: 0.0000003725
+[2019.05.12 10:24:57][ 84%RAM][100%CPU][Info]: Bund: 4/4 E: 0.3350515583 dE: -0.0021863979 dX: 0.0120218369 d: 0.0000000931
+[2019.05.12 10:24:57][ 84%RAM][100%CPU][Info]: Bund: 5/15 E: 0.3297524811 dE: 0.0052990772 dX: 0.0038966475 d: 0.0000119209
+[2019.05.12 10:24:57][ 84%RAM][100%CPU][Info]: Bund: 6/8 E: 0.3260701583 dE: 0.0036823228 dX: 0.0042256900 d: 0.0000119209
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Bund: 7/6 E: 0.3247897572 dE: 0.0012804012 dX: 0.0238745608 d: 0.0000119209
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Bund: 8/6 E: 0.3234376268 dE: 0.0013521303 dX: 0.0272694299 d: 0.0000119209
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Bund: 9/6 E: 0.3225802295 dE: 0.0008573973 dX: 0.0173992548 d: 0.0000119209
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Updated 10/9 (15)  trackSize: 1266 nrAdd: 76
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Best image to add: logfile3.JPEG with 82 match candidates
+[2019.05.12 10:24:57][ 85%RAM][100%CPU][Info]: Add image: logfile3.JPEG with: 51 matches and error: 0.522618
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 0/9 E: 0.3397914673 dE: -0.0044616507 dX: 0.5935695008 d: 0.0019531250
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 1/3 E: 0.3303538018 dE: -0.0063353779 dX: 0.1100153690 d: 0.0002441406
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 2/3 E: 0.3292441516 dE: -0.0007993130 dX: 0.0088342986 d: 0.0000305176
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Add error: 0.455875 nrProjections: 3019 nrTracks: 1292 trackSize: 1292 s0(0) s1(0) s2(1036) s3(171) s4(34) s5(51)
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Updated 11/9 (15)  trackSize: 1292 nrAdd: 51
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: ****Cluster done*******
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Add points to tracks allSize: 4645 recSize: 1292 the: 0.356458, 16
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: NrNew: 232 nrAdd: 66 from: 11 images
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Find more tracks error: 0.522802 nrProjections: 3578 nrTracks: 1524 trackSize: 1524 s0(0) s1(0) s2(1208) s3(213) s4(45) s5(58)
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 0/22 E: 0.3777643206 dE: 0.0069386994 dX: 0.0343434028 d: 0.0000238419
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 1/4 E: 0.3401296894 dE: -0.0211790694 dX: 0.0163885839 d: 0.0000014901
+[2019.05.12 10:24:58][ 85%RAM][100%CPU][Info]: Bund: 2/1 E: 0.3309490004 dE: -0.0094427390 dX: 0.0012974246 d: 0.0000007451
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 3/1 E: 0.3279394645 dE: -0.0030374118 dX: 3.7975718808 d: 0.0000003725
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 4/1 E: 0.3259415339 dE: -0.0020102531 dX: 0.3020958314 d: 0.0000001863
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 5/12 E: 0.3248580803 dE: 0.0010834536 dX: 0.0062174972 d: 0.0000119209
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 6/6 E: 0.3234026587 dE: 0.0014554216 dX: 0.0802447479 d: 0.0000119209
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 7/9 E: 0.3224773267 dE: 0.0009253320 dX: 0.0056480932 d: 0.0000238419
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 8/5 E: 0.3214301871 dE: -0.0008549245 dX: 0.0334110059 d: 0.0000119209
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Bund: 9/8 E: 0.3197951414 dE: 0.0016350457 dX: 0.0022385872 d: 0.0000119209
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Remove tracks variance 131 removed from 1517
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: final error: 0.431135 nrProjections: 3257 nrTracks: 1386 trackSize: 1386 s0(0) s1(0) s2(1088) s3(208) s4(36) s5(54)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks min visible: 20 nrCameras: 15
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks remaining cameras: 15
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks: 0 cameras removed
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: final filtered error: 0.431135 nrProjections: 3257 nrTracks: 1386 trackSize: 1386 s0(0) s1(0) s2(1088) s3(208) s4(36) s5(54)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Write camera tracks C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_001.p4drec
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Write camera tracks 11 cams (0 w/ geo), 0 MTPs, 0 3D GCPs, 1386 tracks
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: ***********************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: 11/15 images in this cluster
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: RESULT for time Calibrate processing 19s:244ms / 0.320733 min.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******GeoreferenceProcessing**
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: transformGeoReference C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_000.p4drec: 15 cams 255 tracks
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: less than 3 good geotagges images 
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: isUpDirection
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: nrUps 0 nrTot 4
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: upDirection is false are positive-> rotate 180 around x-axis
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: transformGeoReference C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_001.p4drec: 15 cams 1386 tracks
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: less than 3 good geotagges images 
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: isUpDirection
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: nrUps 0 nrTot 11
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: upDirection is false are positive-> rotate 180 around x-axis
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******MergeProcessing*********
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Merging blocks
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Merge 2 blocks
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Block 0 C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_000.p4drec cams: 4 GCPs: 0 MTPs: 0 tracks: 255
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Warning]: Block 0 doesn't have enough GPS, GCP or scale/orientation to be properly referenced.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Block 1 C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/result_clusters_full_1.p4b_001.p4drec cams: 11 GCPs: 0 MTPs: 0 tracks: 1386
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Warning]: Block 1 doesn't have enough GPS, GCP or scale/orientation to be properly referenced.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Blocks order [ 1 ]
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Final merge with 1 blocks 11 cal. cams 1386 tracks
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Check consistency.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Compute consistent tracks with error 2.5
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Statistics before consistent tracks error: 0.431135 nrProjections: 3257 nrTracks: 1386 trackSize: 1386 s0(0) s1(0) s2(1088) s3(208) s4(36) s5(54)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Nr tracks: 1386 nr matches: 3257
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Remove tracks size: 9 removed from 1386
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Nr tracks: 1377 nr matches: 3239
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Statistics after consistent tracks error: 0.43111 nrProjections: 3239 nrTracks: 1377 trackSize: 1377 s0(0) s1(0) s2(1079) s3(208) s4(36) s5(54)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Remove tracks size: 20 removed from 1377
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Statistics after remove inconsistent tracks error: 0.427125 nrProjections: 3164 nrTracks: 1357 trackSize: 1357 s0(0) s1(0) s2(1073) s3(203) s4(32) s5(49)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Final merge error: 0.427125 nrProjections: 3164 nrTracks: 1357 trackSize: 1357 s0(0) s1(0) s2(1073) s3(203) s4(32) s5(49)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks min visible: 20 nrCameras: 15
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks remaining cameras: 11
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Filter camera tracks: 0 cameras removed
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Final merge filtered error: 0.427125 nrProjections: 3164 nrTracks: 1357 trackSize: 1357 s0(0) s1(0) s2(1073) s3(203) s4(32) s5(49)
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Substep Camera calibration finished.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Substep Rematch started.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: ******* ReMatchProcessing *****
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Rematch 
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Reading keypoints from <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/feat_full_1.p4b>...
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Read keypoints.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Rematch camera positions
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Read matches.
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: MatchSet: loading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_full_1.p4b...
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: 76 pairs loaded
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Number of existing pairs: 76
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Generating pairs
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Add pairs from MTPs: 50 best correspondences 0 new pairs
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Generating pairs
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Projection: 7 new pairs
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Pair generator rematch nrPairs: 83
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Info]: Need to rematch based on camera positions: 83 nr pairs
+[2019.05.12 10:24:59][ 85%RAM][100%CPU][Processing]: Computing rematches
+[2019.05.12 10:24:59][ 85%RAM][  0%CPU][Info]: Matching: need to process 7 pairs
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 5: <logfile10.JPEG(0,9512),logfile3.JPEG(8,7271)>: nrMatches 155 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 23: <logfile12.JPEG(2,10317),logfile3.JPEG(8,7271)>: nrMatches 257 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 14: <logfile11.JPEG(1,10994),logfile3.JPEG(8,7271)>: nrMatches 212 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: Computing rematches [3/7] elapsed 501ms ...
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 16: <logfile11.JPEG(1,10994),logfile5.JPEG(10,8949)>: nrMatches 414 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 32: <logfile13.JPEG(3,9959),logfile3.JPEG(8,7271)>: nrMatches 188 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 25: <logfile12.JPEG(2,10317),logfile5.JPEG(10,8949)>: nrMatches 280 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][  0%CPU][Info]: Matched pair 41: <logfile14.JPEG(4,7222),logfile4.JPEG(9,10319)>: nrMatches 143 | CPU SSE
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: >>>Computing rematches<<< done in 01s:002ms / 0.0167 min.
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: MatchSet: saving to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_full_1.p4b...
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Processing]: Write matches.
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Processing]: Read matches.
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: MatchSet: loading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_std_full_1.p4b...
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: 76 pairs loaded
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: MatchSet: saving to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/mat_std_full_1.p4b...
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Processing]: Write matches.
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: Statistics before adding tracks  error: 0.427125 nrProjections: 3164 nrTracks: 1357 trackSize: 1357 s0(0) s1(0) s2(1073) s3(203) s4(32) s5(49)
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Info]: Add tracks with error 2.5
+[2019.05.12 10:25:00][ 85%RAM][100%CPU][Processing]: Add matches.
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Statistics after adding tracks  error: 0.455695 nrProjections: 4608 nrTracks: 2027 trackSize: 2027 s0(0) s1(0) s2(1667) s3(264) s4(44) s5(52)
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Rematch all calibrated cameras
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Compute matches near track
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Processing]: Rematch init.
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 840 triangles 1658 for: D:/logfile10.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 882 triangles 1744 for: D:/logfile11.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 941 triangles 1862 for: D:/logfile12.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 1010 triangles 1996 for: D:/logfile13.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 548 triangles 1069 for: D:/logfile14.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 835 triangles 1646 for: D:/logfile15.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 715 triangles 1406 for: D:/logfile16.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 523 triangles 1025 for: D:/logfile17.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 505 triangles 987 for: D:/logfile3.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 1040 triangles 2057 for: D:/logfile4.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add pairs triangle points 1042 triangles 2064 for: D:/logfile5.JPEG
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Processing]: Rematch images.
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Statistics before adding tracks  error: 0.455695 nrProjections: 4608 nrTracks: 2027 trackSize: 2027 s0(0) s1(0) s2(1667) s3(264) s4(44) s5(52)
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Add tracks with error 2.5
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Processing]: Add matches.
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: Statistics after adding tracks  error: 0.464822 nrProjections: 8016 nrTracks: 3699 trackSize: 3699 s0(0) s1(0) s2(3280) s3(318) s4(49) s5(52)
+[2019.05.12 10:25:01][ 85%RAM][ 99%CPU][Info]: GCP's computeNoiseDistribution
+[2019.05.12 10:25:03][ 85%RAM][ 99%CPU][Info]: Bund: 0/34 E: 0.3133516983 dE: 0.0117180373 dX: 0.4048299101 d: 0.0000238419
+[2019.05.12 10:25:03][ 85%RAM][ 99%CPU][Info]: Bund: 1/4 E: 0.3110840111 dE: -0.0009821450 dX: 0.0298156262 d: 0.0000014901
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Bund: 2/11 E: 0.3096845590 dE: -0.0009883583 dX: 0.0183699325 d: 0.0000119209
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Remove tracks error 298 removed from 3697
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Check consistency.
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Compute consistent tracks with error 2.5
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Statistics before consistent tracks error: 0.408022 nrProjections: 7231 nrTracks: 3399 trackSize: 3399 s0(0) s1(0) s2(3083) s3(252) s4(33) s5(31)
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Nr tracks: 3399 nr matches: 7231
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Remove tracks size: 1 removed from 3399
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Nr tracks: 3398 nr matches: 7229
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Statistics after consistent tracks error: 0.408066 nrProjections: 7229 nrTracks: 3398 trackSize: 3398 s0(0) s1(0) s2(3082) s3(252) s4(33) s5(31)
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Remove tracks size: 15 removed from 3398
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Statistics after remove inconsistent tracks error: 0.406911 nrProjections: 7188 nrTracks: 3383 trackSize: 3383 s0(0) s1(0) s2(3077) s3(243) s4(32) s5(31)
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: less that 3 geotagges images 
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: isUpDirection
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: nrUps 0 nrTot 11
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: upDirection is false are positive-> rotate 180 around x-axis
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Filter automatic tie points
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Filter camera tracks min visible tracks: 20 minVisibleGCP 4 nrCameras: 15
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Filter camera tracks min visible tracks: remaining cameras: 11
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Filter camera tracks min visible tracks: 0 tracks removed
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Substep Rematch finished.
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: *********************************
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: *********addCamerasWithPosition**
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: *********************************
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: addCameras nrCam: 11 nrTracks: 3383
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Add cameras...
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: failed to add: -1 nrMat: 0
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: addCameras nrCam: 11 nrTracks: 3383
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: *******************************
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: ******* GCPProcessing *********
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: *******************************
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Substep Georeference the model started.
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Triangulate MTPs
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Triangulate MTPs done.
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: Not enough GCPs present to transform (0).
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Info]: GCP's computeNoiseDistribution
+[2019.05.12 10:25:04][ 85%RAM][ 99%CPU][Processing]: Optimizing with geoinformation
+[2019.05.12 10:25:05][ 85%RAM][100%CPU][Info]: Bund: 0/24 E: 0.2799827570 dE: 0.0015782155 dX: 0.0142926880 d: 0.0000238419
+[2019.05.12 10:25:05][ 85%RAM][100%CPU][Info]: Bund: 1/4 E: 0.2764015433 dE: -0.0023145685 dX: 0.0185677897 d: 0.0000014901
+[2019.05.12 10:25:06][ 85%RAM][100%CPU][Info]: Bund: 2/12 E: 0.2732138779 dE: -0.0016164380 dX: 0.0036621203 d: 0.0000238419
+[2019.05.12 10:25:06][ 86%RAM][100%CPU][Info]: Bund: 3/8 E: 0.2708851207 dE: -0.0012791521 dX: 0.0209497699 d: 0.0000238419
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Bund: 4/8 E: 0.2697958710 dE: -0.0006396772 dX: 0.0143125093 d: 0.0000238419
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Processing]: Analyzing geoinformation
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Remove tracks error 26 removed from 3367
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Processing]: Check consistency.
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Compute consistent tracks with error 2.5
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Statistics before consistent tracks error: 0.393167 nrProjections: 7077 nrTracks: 3341 trackSize: 3341 s0(0) s1(0) s2(3048) s3(234) s4(31) s5(28)
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Nr tracks: 3341 nr matches: 7077
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Nr tracks: 3341 nr matches: 7077
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Statistics after consistent tracks error: 0.393167 nrProjections: 7077 nrTracks: 3341 trackSize: 3341 s0(0) s1(0) s2(3048) s3(234) s4(31) s5(28)
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Statistics after remove inconsistent tracks error: 0.393167 nrProjections: 7077 nrTracks: 3341 trackSize: 3341 s0(0) s1(0) s2(3048) s3(234) s4(31) s5(28)
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Filter camera tracks min visible tracks: 20 minVisibleGCP 4 nrCameras: 15
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Filter camera tracks min visible tracks: remaining cameras: 11
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Filter camera tracks min visible tracks: 0 tracks removed
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Tracks error: 0.393167 nrProjections: 7077 nrTracks: 3341 trackSize: 3341 s0(0) s1(0) s2(3048) s3(234) s4(31) s5(28)
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: GPS bias after bundle none
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Camera position after bundle
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Processing]: Compute number of matches.
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Processing]: Substep Georeference the model finished.
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Processing]: Substep Camera calibration started.
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Absolute uncertainty computation time: 0.226042
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: Relative uncertainty computation time: 0.21569
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 0
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 1
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 2
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 3
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 4
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 5
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 6
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 7
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 8
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 9
+[2019.05.12 10:25:07][ 86%RAM][100%CPU][Info]: No image externals covariance for internal-external block at 10
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Substep Camera calibration finished.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Color automatic tie points...
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Substep Report generation started.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: InitialProcessing: mean resolution is 39.0773cm / 0.390773m.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: *******InitialReport********
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: *******************************
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: Reading keypoints from <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/project_data/feat_full_1.p4b>...
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Read keypoints.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Compute number of matches.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Processing]: Compute number of matches.
+[2019.05.12 10:25:08][ 86%RAM][100%CPU][Info]: writeMatches C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/report/html/ 612 1000
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for Image quality: 9390
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for completeness: 11/15
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for Camera calibration: 0.49
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for Matching quality: 731.469
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT 2D Keypoints per Image: median 9390, mean 9237.82, min 7222, max 10994
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT Matched 2D Keypoints per Image: median 731.469, mean 643.364, min 94, max 1045
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for Average Ground Sampling Distances: undefined
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for time Initial Processing 01m:16s
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: RESULT for optimized camera parameters: 0
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: PerspectiveCamera5 CAMERA nrCols*nrRows 1920*1080 sx*sy [mm]: 25.4*14.2875  iParams: -0.119482 0.00799909 -0.000190178 -0.00040264 -0.000487789 focal: 1504.34 cx/cy: 978.178 585.357 rd: 0.0851351 -0.326836 0.371537 td: 0.00365215 0.00436922
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Processing]: Substep Report generation finished.
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Processing]: Substep Save parameters started.
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: writeCalibration results
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: writeCalibrationResults done
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: writeMatchesDistributed
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: writeMatchesDistributed done 
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Processing]: Substep Save parameters finished.
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: OS Power Save: Enable
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Info]: >>>Step1<<< done in 01m:17s:442ms / 1.2907 min.
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][Processing]: Step1Done
+[2019.05.12 10:25:09][ 87%RAM][100%CPU][UI]: Show Quality Report clicked.
+[2019.05.12 10:25:09][ 88%RAM][100%CPU][Info]: DataProvider: closing
+[2019.05.12 10:25:09][ 88%RAM][100%CPU][Info]: Project results: loading ...
+[2019.05.12 10:25:10][ 88%RAM][100%CPU][Info]: Project: Cameras updated
+[2019.05.12 10:25:10][ 88%RAM][100%CPU][Info]: Project: Cameras loaded
+[2019.05.12 10:25:10][ 88%RAM][100%CPU][Info]: Project: Calibrated tracks loaded
+[2019.05.12 10:25:10][ 88%RAM][100%CPU][Info]: Project: loading done.
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: --------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Version                 = <4.3.33>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Name                    = <Test>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Workspace               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: WKT Output              = <LOCAL_CS["Arbitrary (m)",LOCAL_DATUM["Arbitrary datum"],UNIT["meter",1.0,AUTHORITY["EPSG","9001"]]]>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: WKT GCP                 = <LOCAL_CS["Arbitrary (m)",LOCAL_DATUM["Arbitrary datum"],UNIT["meter",1.0,AUTHORITY["EPSG","9001"]]]>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: WKT IMG                 = <GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Linear unit             = <m>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Vert.model Output       = <noConv 0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Vert.model GCP          = <noConv 0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Vert.model IMG          = <geoid 0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ResultDir               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ReportDir               = <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/report/>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Initial processing options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Processing
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Keypoint extraction
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Keypoint scale strategy    = <Full>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Image keypoint scale       = <1>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Descriptor type            = <0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Matching
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Strategy                   = <AutoOblique>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Advanced                   = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Sequential                 = <4>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Triangle                   = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Distance                   = <0 absolute>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: MTP                        = <50>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Similarity                 = <6>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Calibration
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Targeted Number of Keypoints = <Automatic>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Calibration method         = <Standard>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Optimizer type             = <Ceres>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Optimize internals         = <All>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Optimize externals         = <All>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Optimize lever-arm         = <None>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Rematch strategy           = <Auto>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Rematch images             = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Do sky segmentation        = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Output
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save camera internals and external, AAT, BBA = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save undistorted images         = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Generate orthomosaic for report = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Create thumbnails               = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Point Cloud options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Point Cloud Densification
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Image scale               = <1/2 (Half image size, Default)>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Multiscale                = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Point density             = <Optimal>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Minimum number of matches = <3>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Matching window size      = <9x9 pixels>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Point Cloud Filters
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use densification area    = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use annotations           = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Limit camera depth        = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Output
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save PLY                  = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save XYZ                  = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: XYZ delimiter             = <Space>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save LAS                  = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save LAZ                  = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Merge Tiles into One File = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Run classification        = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: 3D Textured Mesh options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Generate 3D textured mesh = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Resolution                = <Medium Resolution (default)>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Maximum Octree Depth      = <12>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Texture size              = <8192x8192>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Decimation Criteria       = <Quantitative>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Maximum number of triangles = <1000000>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Color Balancing           = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save PLY                  = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save OBJ                  = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: OBJ Tiled Texture         = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save FBX                  = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save DXF                  = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save PDF3D                = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: PDF3D Logo                = <>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: LOD Export 
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Export OSGB               = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Export SLPK               = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Level Count               = <4>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Texture Quality           = <0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: DSM and Orthomosaic options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Resolution [cm/pixel]    = <39.0773>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Filters
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use noise filtering      = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use surface smoothing    = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Surface smoothing type   = <Sharp>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Raster DSM
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save DSM TIFF            = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Method                   = <Inverse Distance Weighting>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: DSM TIFF merge tiles     = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: GridDSM
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save grid DSM XYZ        = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: XYZ delimiter            = <Space>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save grid DSM LAS        = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save grid DSM LAZ        = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Grid DSM spacing [cm]    = <100>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Orthomosaic
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save orthomosaic TIFF    = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use visibility           = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Use color balancing      = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save orthomosaic TIFF merge tiles = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save orthomosaic TIFF without transparency = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save KML                 = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Additional outputs options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: DTM
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save DTM TIFF            = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: DTM TIFF merge tiles     = <yes>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Resolution [cm/pixel]    = <195.387>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Contour lines
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save contour SHP          = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save contour PDF          = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save contour DXF          = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Contour base (in LinearUnit) = <0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Elevation interval (in LinearUnit) = <10>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Resolution [cm]            = <100>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Minimum line size [points] = <20>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Index options
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Resolution [cm/pixel]       = <39.0773>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Downsampling strategy       = <Gauss>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save reflectance map TIFF   = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Merge Reflectance Tiles     = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save Index Grid             = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save Index grid resolution  = <200>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save Index Range            = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Save Index Range resolution = <400>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Indices to generate         = <[ ]>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Has Regions                 = <no>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: Cuda capable devices      = <0>
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ------------------------------------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: --------------------------------------------
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: OS Power Save: Disable
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: *****************************************************
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: ************* do dense ******************************
+[2019.05.12 10:25:13][ 88%RAM][  0%CPU][Info]: *****************************************************
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Processing]: Substep Dense matching started.
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Processing]: Dense matching
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Dense matching [0/4] elapsed 016ms ...
+[2019.05.12 10:25:13][ 87%RAM][ 90%CPU][Processing]: Step2Running
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Time spent building the tree: 012ms, total number of points = 293
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Finished loading tracks layer with 293 points
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Point Cloud Densification : no area or invalid area, the area will not be used.
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Point Cloud Densification : no annotations or invalid annotations, the annotations will not be used.
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Processing]: Dense Processing
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Processing]: Checking cameras
+[2019.05.12 10:25:13][ 87%RAM][  0%CPU][Info]: Checking cameras [0/1] elapsed 002ms ...
+[2019.05.12 10:25:13][ 90%RAM][  0%CPU][Info]: Dense matching [1/4] elapsed 517ms ...
+[2019.05.12 10:25:27][ 90%RAM][100%CPU][Info]: >>>Checking cameras<<< done in 14s:290ms / 0.238167 min.
+[2019.05.12 10:25:27][ 90%RAM][100%CPU][Processing]: Processing group group1
+[2019.05.12 10:25:27][ 90%RAM][100%CPU][Info]: Processing group group1 [0/3] elapsed 002ms ...
+[2019.05.12 10:25:28][ 90%RAM][  0%CPU][Processing]: Group group1, cluster 1/1 : initializing 11 cameras 
+[2019.05.12 10:25:28][ 90%RAM][100%CPU][Info]: Dense Processing [2/4] elapsed 14s:806ms ...
+[2019.05.12 10:25:28][ 90%RAM][100%CPU][Info]: Processing group group1 [1/3] elapsed 504ms ...
+[2019.05.12 10:25:32][ 91%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : initializing 293 points 
+[2019.05.12 10:25:32][ 91%RAM][100%CPU][Info]: Group group1, cluster 1/1 : clusterProcessing: Expanding from 220 points 
+[2019.05.12 10:25:45][ 91%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : optimizing 29552 points [1/3] 
+[2019.05.12 10:25:45][ 92%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : optimizing 29000 points [2/3] 
+[2019.05.12 10:25:45][ 92%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : optimizing 28523 points [3/3] 
+[2019.05.12 10:25:45][ 92%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : finalizing 28339 points 
+[2019.05.12 10:25:45][ 92%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : checking 28339 points 
+[2019.05.12 10:25:45][ 92%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : coloring 28339 points 
+[2019.05.12 10:25:48][ 91%RAM][100%CPU][Processing]: Group group1, cluster 1/1 : writing 28339 points 
+[2019.05.12 10:25:48][ 91%RAM][100%CPU][Processing]: Group group1, 1 cluster(s) processed, 28339 points
+[2019.05.12 10:25:48][ 91%RAM][100%CPU][Processing]: Generating tiles
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Writing C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][100%CPU][Info]: Processing group group1 [2/3] elapsed 20s:529ms ...
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: Writing C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densification_data_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Reading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Sorting C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Writing C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: Reading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densification_data_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: Sorting C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densification_data_part_1.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Renaming to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:48][ 91%RAM][  0%CPU][Info]: TileGenerator: Renaming to C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densification_data.p4b
+[2019.05.12 10:25:48][ 91%RAM][100%CPU][Info]: Generating tiles [8/8] elapsed 502ms ...
+[2019.05.12 10:25:49][ 92%RAM][100%CPU][Info]: >>>Generating tiles<<< done in 01s:002ms / 0.0167 min.
+[2019.05.12 10:25:49][ 92%RAM][100%CPU][Info]: >>>Processing group group1<<< done in 21s:531ms / 0.35885 min.
+[2019.05.12 10:25:49][ 91%RAM][100%CPU][Info]: >>>Dense Processing<<< done in 36s:333ms / 0.60555 min.
+[2019.05.12 10:25:49][ 91%RAM][100%CPU][Info]: Reading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:49][ 91%RAM][100%CPU][Info]: Writing C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Info]: >>>Dense matching<<< done in 36s:884ms / 0.614733 min.
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Processing]: Substep Dense matching finished.
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Processing]: Substep Dense outputs started.
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Processing]: Generating outputs [group1]
+[2019.05.12 10:25:50][ 91%RAM][  0%CPU][Info]: Reading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:50][ 91%RAM][  0%CPU][Info]: Writing C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/point_cloud/Test_group1_densified_point_cloud.las
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Info]: >>>Generating outputs [group1]<<< done in 502ms / 0.00836667 min.
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Processing]: Substep Dense outputs finished.
+[2019.05.12 10:25:50][ 91%RAM][100%CPU][Processing]: Constrain point cloud
+[2019.05.12 10:25:50][ 91%RAM][  0%CPU][Info]: Reading C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:50][ 91%RAM][  0%CPU][Info]: Updating C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/2_densification/project_data/Test_group1_densified_point_cloud.p4b
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: >>>Constrain point cloud<<< done in 501ms / 0.00835 min.
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: ******************************************************
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: *******Generate Surface Constraint(s) for Mesh********
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: ******************************************************
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: Getting the list of Surface objects used to constrain the mesh
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: No surface constraints to add
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: ************ generate textured mesh *****************
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: *****************************************************
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Processing]: Substep Dense mesh creation started.
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Processing]: Generating mesh geometry
+[2019.05.12 10:25:51][ 91%RAM][100%CPU][Info]: Generating mesh geometry [0/3] elapsed 002ms ...
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: Running Screened Poisson Reconstruction (Version 6.11)
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: Parameters for poisson surface reconstruction
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: voxelGrid         = <>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: depth             = <12>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: fullDepth         = <5>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: voxelDepth        = <-1>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: cgDepth           = <0>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: scale             = <1.1>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: samplesPerNode    = <10>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: pointWeight       = <4>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: iters             = <8>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: threads           = <4>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: confidence        = <no>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: normalWeight      = <no>
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:51][ 91%RAM][  0%CPU][Processing]: Poisson Surface Reconstruction
+[2019.05.12 10:25:53][ 92%RAM][  0%CPU][Info]: [PoissonRecon] Step completed, 92% RAM
+[2019.05.12 10:25:53][ 92%RAM][100%CPU][Info]: Poisson Surface Reconstruction [1/6] elapsed 02s:004ms ...
+[2019.05.12 10:25:53][ 92%RAM][  0%CPU][Info]: [PoissonRecon] Step completed, 92% RAM
+[2019.05.12 10:25:53][ 92%RAM][100%CPU][Info]: Poisson Surface Reconstruction [2/6] elapsed 02s:505ms ...
+[2019.05.12 10:25:55][ 92%RAM][100%CPU][Info]: [PoissonRecon] Step completed, 92% RAM
+[2019.05.12 10:25:55][ 92%RAM][100%CPU][Info]: Poisson Surface Reconstruction [4/6] elapsed 04s:508ms ...
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: [PoissonRecon] Step completed, 92% RAM
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: >>>Poisson Surface Reconstruction<<< done in 06s:010ms / 0.100167 min.
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: Parameters for mesh trimming
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: smooth            = <5>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: trimRatio         = <0.05>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: trimOutsideRatio  = <0.01>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: mergeRatio        = <0.01>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: polygonMesh       = <false>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: deleteRatio       = <0.05>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: keepDensity       = <false>
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: ---------------------------------------------------------------------------
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: >>>Generating mesh geometry<<< done in 06s:510ms / 0.1085 min.
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Info]: Mesh created with 11506 points and 22586 triangles
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Processing]: Substep Dense mesh creation finished.
+[2019.05.12 10:25:57][ 92%RAM][100%CPU][Processing]: Substep Dense mesh decimation started.
+[2019.05.12 10:25:58][ 92%RAM][100%CPU][Info]: 11506 points and 22586 triangles remaining after decimation
+[2019.05.12 10:25:58][ 92%RAM][100%CPU][Processing]: Substep Dense mesh decimation finished.
+[2019.05.12 10:25:58][ 92%RAM][100%CPU][Processing]: Substep Dense mesh texture atlas tile started.
+[2019.05.12 10:25:58][ 92%RAM][100%CPU][Processing]: Generating texture atlas tiles
+[2019.05.12 10:25:58][ 92%RAM][  0%CPU][Processing]: Substep Dense mesh texture coordinates started.
+[2019.05.12 10:25:59][ 91%RAM][  0%CPU][Processing]: Substep Dense mesh texture coordinates finished.
+[2019.05.12 10:26:00][ 94%RAM][100%CPU][Info]: Generating texture atlas tiles [2/16] elapsed 02s:003ms ...
+[2019.05.12 10:26:06][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [3/16] elapsed 08s:012ms ...
+[2019.05.12 10:26:10][ 96%RAM][ 98%CPU][Info]: Generating texture atlas tiles [4/16] elapsed 12s:524ms ...
+[2019.05.12 10:26:13][ 94%RAM][ 98%CPU][Info]: Generating texture atlas tiles [5/16] elapsed 15s:421ms ...
+[2019.05.12 10:26:16][ 94%RAM][100%CPU][Info]: Generating texture atlas tiles [6/16] elapsed 17s:925ms ...
+[2019.05.12 10:26:18][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [7/16] elapsed 20s:427ms ...
+[2019.05.12 10:26:20][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [8/16] elapsed 22s:431ms ...
+[2019.05.12 10:26:22][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [9/16] elapsed 24s:434ms ...
+[2019.05.12 10:26:23][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [11/16] elapsed 24s:935ms ...
+[2019.05.12 10:26:25][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [12/16] elapsed 27s:438ms ...
+[2019.05.12 10:26:28][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [13/16] elapsed 29s:942ms ...
+[2019.05.12 10:26:30][ 95%RAM][100%CPU][Info]: Generating texture atlas tiles [14/16] elapsed 31s:946ms ...
+[2019.05.12 10:26:44][ 93%RAM][100%CPU][Info]: Generating texture atlas tiles [15/16] elapsed 45s:962ms ...
+[2019.05.12 10:26:49][ 90%RAM][ 89%CPU][Info]: >>>Generating texture atlas tiles<<< done in 51s:490ms / 0.858167 min.
+[2019.05.12 10:26:49][ 90%RAM][ 89%CPU][Processing]: Substep Dense mesh texture atlas tile finished.
+[2019.05.12 10:26:49][ 90%RAM][ 89%CPU][Info]: >>>Generate textured mesh<<< done in 58s:268ms.
+[2019.05.12 10:26:49][ 90%RAM][ 89%CPU][Processing]: Exporting 3D mesh
+[2019.05.12 10:26:50][ 90%RAM][ 89%CPU][Info]: Exporting 3D mesh [1/4] elapsed 525ms ...
+[2019.05.12 10:26:59][ 92%RAM][ 94%CPU][Info]: Exporting 3D mesh [2/4] elapsed 09s:536ms ...
+[2019.05.12 10:26:59][ 92%RAM][ 94%CPU][Info]: Exporting 3D mesh [3/4] elapsed 10s:038ms ...
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Info]: >>>Exporting 3D mesh<<< done in 10s:539ms / 0.17565 min.
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Processing]: Substep Dense report started.
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Processing]: Computing density 
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Processing]: Substep Dense report finished.
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Info]: OS Power Save: Enable
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Info]: >>>Step2<<< done in 01m:47s:128ms / 1.78547 min.
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][Processing]: Step2Done
+[2019.05.12 10:27:00][ 93%RAM][ 94%CPU][UI]: Show Quality Report clicked.
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: DataProvider: closing
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: Project results: loading ...
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: Project: Cameras updated
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: Project: Cameras loaded
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: Project: Calibrated tracks loaded
+[2019.05.12 10:27:01][ 94%RAM][ 93%CPU][Info]: Project: loading done.
+[2019.05.12 10:27:02][ 94%RAM][  0%CPU][Info]: Time spent building the tree: 000ms, total number of points = 293
+[2019.05.12 10:27:02][ 94%RAM][  0%CPU][Info]: Finished loading tracks layer with 293 points
+[2019.05.12 10:27:03][ 94%RAM][  0%CPU][Info]: OS Power Save: Disable
+[2019.05.12 10:27:03][ 94%RAM][  0%CPU][Info]: Running PDF conversion utility: <C:/Program Files/Pix4Dmapper/wkhtmltopdf.exe> ...
+[2019.05.12 10:27:03][ 94%RAM][  0%CPU][Info]:  ... with url <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/report/html/index.html>.
+[2019.05.12 10:27:03][ 94%RAM][  0%CPU][Info]:  ... with pdf <C:/Users/Jeppe/Aarhus universitet/Mechatronics - Dokumenter/Mech.Challenge/Software/Camera/Mapping/Test/1_initial/report/Test_report.pdf>.
+[2019.05.12 10:27:08][ 96%RAM][ 97%CPU][Info]:  ... finished correctly.
+[2019.05.12 10:27:08][ 96%RAM][ 97%CPU][Info]: OS Power Save: Enable
+[2019.05.12 10:29:43][ 92%RAM][ 51%CPU][UI]: Save Project clicked.
+[2019.05.12 10:29:45][ 92%RAM][ 75%CPU][UI]: Closing Project.
+[2019.05.12 10:29:45][ 92%RAM][ 75%CPU][Info]: DataProvider: closing
+[2019.05.12 11:13:54][ 90%RAM][ 28%CPU][Info]: Information i0023: Some of the image paths stored in the project Test cannot be found. Select a new image directory for the image D:\logfile10.JPEG.
+[2019.05.12 11:13:59][ 89%RAM][ 62%CPU][Info]: Information i0400a: User cancelled project loading
+[2019.05.12 11:14:09][ 87%RAM][ 18%CPU][UI]: Closing Project.

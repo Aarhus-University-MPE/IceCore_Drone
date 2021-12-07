@@ -1,0 +1,1 @@
+AVRDudeR.exe ./simplebgc.ini

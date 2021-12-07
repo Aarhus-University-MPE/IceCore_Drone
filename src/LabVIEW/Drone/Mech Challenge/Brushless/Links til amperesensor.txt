@@ -1,0 +1,5 @@
+Gennemgang:
+https://www.pololu.com/product/2453
+
+Datasheet:
+http://www.hobbytronics.co.uk/datasheets/ACS711.pdf
