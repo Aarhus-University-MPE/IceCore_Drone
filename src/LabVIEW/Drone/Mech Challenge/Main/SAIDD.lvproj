@@ -167,6 +167,7 @@ DirectoryIndex index.htm
 			<Item Name="XBee_UART_Setup_TX.vi" Type="VI" URL="../SubVI/XBeeSubVI/XBee_UART_Setup_TX.vi"/>
 		</Item>
 		<Item Name="Main_SAIDD.vi" Type="VI" URL="../Main_SAIDD.vi"/>
+		<Item Name="StepperControl.vi" Type="VI" URL="../../../Main/SubVI/StepperControl.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Clock Settings.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Calculate Clock Settings.vi"/>
@@ -466,7 +467,7 @@ DirectoryIndex index.htm
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E380DA95-1DA9-4EE3-9858-0D921EEEBA3F}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">16</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
