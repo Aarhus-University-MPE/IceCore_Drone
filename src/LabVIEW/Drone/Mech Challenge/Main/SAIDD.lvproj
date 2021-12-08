@@ -158,6 +158,7 @@ DirectoryIndex index.htm
 			<Item Name="End stop control.vi" Type="VI" URL="../SubVI/End stop control.vi"/>
 			<Item Name="3KantVipOp_SubVI.vi" Type="VI" URL="../SubVI/TestVIs/3KantVipOp_SubVI.vi"/>
 			<Item Name="Fan and amp measurement.vi" Type="VI" URL="../SubVI/Fan and amp measurement.vi"/>
+			<Item Name="StepperControl.vi" Type="VI" URL="../../../Main/SubVI/StepperControl.vi"/>
 		</Item>
 		<Item Name="XBee" Type="Folder">
 			<Item Name="Modtag billede.vi" Type="VI" URL="../../XBee/Modtag billede.vi"/>
@@ -167,7 +168,6 @@ DirectoryIndex index.htm
 			<Item Name="XBee_UART_Setup_TX.vi" Type="VI" URL="../SubVI/XBeeSubVI/XBee_UART_Setup_TX.vi"/>
 		</Item>
 		<Item Name="Main_SAIDD.vi" Type="VI" URL="../Main_SAIDD.vi"/>
-		<Item Name="StepperControl.vi" Type="VI" URL="../../../Main/SubVI/StepperControl.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Calculate Clock Settings.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Calculate Clock Settings.vi"/>
