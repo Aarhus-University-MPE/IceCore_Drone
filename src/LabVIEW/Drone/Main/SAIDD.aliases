@@ -2,5 +2,4 @@
 ISAS = "172.22.11.2"
 
 [My Computer]
-My Computer = "172.17.160.1"
-
+My Computer = "10.25.3.74"
